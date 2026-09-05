@@ -1,0 +1,6 @@
+FastAPI
+HTTPException
+BaseModel
+jwt,JWTError
+CryptContext
+pymysql
